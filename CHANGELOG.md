@@ -11,6 +11,7 @@ Newest public-safe updates are listed first.
 - Kept a deeper OpenZero model lane available for heavier reasoning and Matrix-side assistant work.
 - Added queueing around the upstream model path so simultaneous site visitors do not overload the CPU host.
 - Retained deterministic fallback answers only for outages, timeouts, or empty model replies.
+- Added public-agent fact guards and an instant curated answer lane for common site questions, reducing repeat/static behaviour and avoiding product-drift claims.
 - Expanded public voice work through local Voicebox-style audio generation and browser speech where available.
 - Removed public wording that exposed exact daily usage limits on pages.
 
