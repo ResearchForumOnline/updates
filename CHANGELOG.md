@@ -2,6 +2,17 @@
 
 Newest public-safe updates are listed first.
 
+## 2026-07-08
+
+### Public Agent Reliability
+
+- Added a visitor-safe timeout path so public website agents return useful answers quickly even when a local CPU model is busy.
+- Tightened product-quality guards for TalkToAI, CallChat, and FrontDeskAgent public agents so weak, repeated, or off-brand model replies fall back to stronger product guidance.
+- Improved TalkToAI ecosystem answers for build questions, OpenZero, ZeroThink, CallChat, FrontDeskAgent, FreeWebPanel, ZSEC, docs, and research routes.
+- Improved CallChat answers around Element setup, Shield/ZMath protected files, normal Matrix chat staying free, and the difference between the hosted service and paid self-hosted Shield licensing.
+- Retested public agent routes through the approved website endpoint after deployment.
+- Kept private bridge internals, server addresses, keys, credentials, protected ZMath/Shield implementation, and sensitive deployment details out of public documentation.
+
 ## 2026-07-07
 
 ### Public AI Agents
