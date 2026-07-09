@@ -2,6 +2,17 @@
 
 Newest public-safe updates are listed first.
 
+## 2026-07-09
+
+### CallChat Q Call Sales and GitHub Boundary
+
+- Published the CallChat public GitHub update for Q Call secure-comms licensing.
+- Added public-safe Q Call buyer guidance, sales flow, pricing copy, and AI-agent sales-nurture behaviour.
+- Documented the live offer as USD $55/month or USD $550/year for unlimited users on one approved public server IP.
+- Added a public website license-page template and live buy/capture links to https://callchat.org/license/.
+- Kept private Shield/ZMath implementation, entitlement logic, payment secrets, customer lead data, production credentials, and server internals outside public GitHub.
+- Rechecked the live CallChat home, pricing, and license pages after deployment.
+
 ## 2026-07-08
 
 ### Public Agent Reliability

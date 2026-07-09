@@ -8,6 +8,8 @@ It is intentionally written for users, reviewers, developers, operators, partner
 
 ## Latest Highlights
 
+- CallChat public GitHub now includes Q Call secure-comms license docs, buyer guidance, sales-nurture agent wording, and a safe license-page template.
+- Q Call is documented publicly as USD $55/month or USD $550/year for unlimited users on one approved public server IP, with the buy/capture route at https://callchat.org/license/.
 - Public website agents were moved away from static fallback copy toward OpenZero-backed answers.
 - A fast public model lane was added for website chat so CallChat, TalkToAI, FrontDeskAgent, and QuantumEncryption1 can answer normal visitor questions without feeling frozen.
 - OpenZero keeps a deeper model lane for heavier reasoning while lighter public prompts use a smaller CPU-friendly route.
@@ -27,6 +29,7 @@ It is intentionally written for users, reviewers, developers, operators, partner
 - OpenZero: https://openzero.talktoai.org/
 - OpenZero GitHub: https://github.com/ResearchForumOnline/OpenZero
 - CallChat: https://callchat.org/
+- CallChat Q Call License: https://callchat.org/license/
 - CallChat GitHub: https://github.com/ResearchForumOnline/CallChat
 - FrontDeskAgent: https://frontdeskagent.online/
 - FrontDeskAgent GitHub: https://github.com/ResearchForumOnline/FrontDeskAgent

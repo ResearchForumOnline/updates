@@ -7,6 +7,7 @@
 - ZeroThink: https://zerothink.talktoai.org/
 - OpenZero: https://openzero.talktoai.org/
 - CallChat: https://callchat.org/
+- CallChat Q Call License: https://callchat.org/license/
 - FrontDeskAgent: https://frontdeskagent.online/
 - FreeWebPanel: https://freewebpanel.com/
 - QuantumEncryption1: https://quantumencryption1.com/

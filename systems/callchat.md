@@ -17,6 +17,10 @@ CallChat is the Matrix-compatible sovereign messenger front door for callchat.or
 
 ## Latest Work
 
+- Published Q Call secure-comms license assets to the public CallChat GitHub repo.
+- Added public-safe buyer guidance, sales flow, pricing copy, and AI-agent sales-nurture wording.
+- Documented the public Q Call offer as USD $55/month or USD $550/year for unlimited users on one approved public server IP.
+- Added a public license-page template and live buy/capture links while keeping private Shield/ZMath source, entitlement logic, payment secrets, and customer lead data out of GitHub.
 - Improved site UI around the CallChat dark/cyan visual style.
 - Added stronger open graph/share assets and video content.
 - Hid public admin links from visitor navigation.
