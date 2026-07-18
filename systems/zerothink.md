@@ -4,6 +4,12 @@ ZeroThink is the AI workbench and reasoning layer for research, documents, model
 
 ## Latest Work
 
+- Rebuilt the public ZeroThink landing page for desktop and mobile around the current product rather than retired model-version messaging.
+- Added direct discovery for ZeroThink Studio, ZeroKill, DNA Lab, Research & Papers, Media Lab, Agent Zero CLI, Direct Mode, Zero Library, and QuantumZero.
+- Added a job-led path from source discovery to claim stress-testing, reviewed output creation, and continued work in Studio.
+- Kept private workspaces behind the existing sign-in flow while preserving one-click access to public tools.
+- Removed crypto, wallet, token-contract, and protected file-format details from the public landing page.
+- Preserved the complete [ZeroThink tool directory](https://zerothink.talktoai.org/tools/) for specialist and account destinations.
 - Improved Research Paper Creator reliability and scope.
 - Added a provenance-aware literature/evidence workflow for the Nottingham and research paper creator lanes.
 - Added survey expansion direction for students and researchers: use a small set of papers or articles, extract claims and evidence, build a graph, compare methods, and draft a new auditable paper.
