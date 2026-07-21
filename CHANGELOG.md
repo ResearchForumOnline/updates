@@ -2,6 +2,15 @@
 
 Newest public-safe updates are listed first.
 
+## 2026-07-21
+
+### Zmail and ZeroThink — storage and recovery planning
+
+- Began a capacity and recovery review focused on keeping user data reliable as the services grow.
+- Separated routine small, incremental backups from full-system disaster-recovery planning.
+- Kept quota and storage promises in testing until recovery and growth evidence is complete.
+- Kept source code, configuration, infrastructure, logs, customer and mailbox data, DNA data, credentials, backups, and private research outside this public update.
+
 ## 2026-07-09
 
 ### CallChat Q Call Sales and GitHub Boundary
